@@ -30,4 +30,7 @@ The header is 200 byte long
 ---
 
 ## Checksum
-The checksum is the summation of the content of all bytes in the file as integer
+The checksum is the sum of the content of all bytes in the file as integer
+
+## Firmware download
+https://sites.google.com/site/firmwarerelease/firmware-list/dvr-2/h264-dvr
